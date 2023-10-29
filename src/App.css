@@ -18,9 +18,9 @@ html,body,:root {
   height:4px
 }
 ::-webkit-scrollbar-thumb {
-  @apply bg-rose-900 rounded-xl
+  @apply bg-sky-900 rounded-xl
 }
 
 .task> ::webkit-scrollbar-thumb {
-  @apply bg-orange-600 rounded-xl
+  @apply bg-sky-600 rounded-xl
 }
