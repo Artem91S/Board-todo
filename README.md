@@ -1,27 +1,24 @@
-# React + TypeScript + Vite
+A great <b>Todo list</b> for keeping track of your affairs.
+<br/>
+Description in English:<br/>
+Project <b>Todo List</b>.<br/>
+This project was written with React I used next technologies:<br/>
+<b>React hooks</b>>- for manage state;<br/>
+<b>Vite</b>-for creating project;<br/>
+<b>Typescript</b>-for types;<br/>
+<b>Tailwind</b>-styling of project;<br/>
+<b>Dnd kit</b> -library for drag and drop.<br/>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+All date saved in localStorage and after refresh browser we save your changes. <br/>
 
-Currently, two official plugins are available:
+Опис Українською:<br/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Проєкт <b>Todo List</b>.<br/>
+Робота на React з використанням:<br/>
+<b>React hooks</b>- для роботи зі стейтом;<br/>
+<b>Vite</b>-збірка проекту;<br/>
+<b>Typescript</b>-для типів;<br/>
+<b>Tailwind</b>-стилізування проекту;<br/>
+<b>Dnd kit</b> -бібліотека для драг анд дроп.<br/>
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Усі дані зберігаються у локал сторідж.Тому при перезавантаженні сторінки дані зберігаються.<br/>
